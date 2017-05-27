@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
   s.name     = "ezcrypto"
-  s.version  = "0.7.2"
-  s.date     = "2009-3-10"
+  s.version  = "0.7.3"
+  s.date     = "2017-05-27"
   s.summary  = "EzCrypto - Simplified Crypto Library"
   s.email    = "pelle@stakeventures.com"
   s.homepage = "http://ezcrypto.rubyforge.org"
@@ -62,6 +62,6 @@ Gem::Specification.new do |s|
                   "test/testsigner.pem",
                   "test/valicert_class2_root.crt",
                   "test/agree2.com.cert"]
-  
+
 end
 
